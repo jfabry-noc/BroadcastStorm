@@ -1,2 +1,3 @@
 # BroadcastStorm
-Basic Jamstack site.
+
+Basic Jamstack site. It's a joke.

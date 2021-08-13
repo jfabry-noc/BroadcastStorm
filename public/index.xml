@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BroadcastStorm.io</title>
+    <link>https://broadcaststorm.io/</link>
+    <description>Recent content on BroadcastStorm.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://broadcaststorm.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://broadcaststorm.io/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://broadcaststorm.io/description/</guid>
+      <description>This site is a fun joke based around my coworker&amp;rsquo;s use of Broadcast Storm to stand in for Bullshit.
+It&amp;rsquo;s the ultimate stand-in for emails, IMs, text messages, meeting titles, and more and if you even tangentially have anything to do with networking.
+Now you also know the arcane secrets of attaining catharsis by throwing shade at people publicly on your calendar without them realizing it!
+Along with making shitty Jamstack sites and complaining on the Internet, I&amp;rsquo;m interested in:</description>
+    </item>
+    
+  </channel>
+</rss>

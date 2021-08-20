@@ -30,7 +30,7 @@ theme = "hugo-theme-shell"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
-  terminalDelay = 12 
+  terminalDelay = 12
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
@@ -38,7 +38,7 @@ theme = "hugo-theme-shell"
 
   description = """
   Broadcast Storm:
-  The ultimate stand-in for "bs" in emails, IMs, meeting titles, and more!
+  The ultimate stand-in for "BS" in emails, IMs, meeting titles, and more!
 
   """
 

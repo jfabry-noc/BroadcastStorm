@@ -53,5 +53,4 @@ theme = "hugo-theme-shell"
   files = [
     ["Shitposting", "https://twitter.com/broadcaststorm_"],
     ["Long Form Shitposting", "http://choochooboom.com/"],
-    ["Chess", "https://lichess.org/@/ConfusedLeek"],
   ]

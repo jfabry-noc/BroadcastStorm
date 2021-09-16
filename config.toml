@@ -52,5 +52,5 @@ theme = "hugo-theme-shell"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["Shitposting", "https://twitter.com/broadcaststorm_"],
-    ["Long Form Shitposting", "http://choochooboom.com/"],
+    ["Long Form Shitposting", "http://blog.broadcaststorm.io"],
   ]

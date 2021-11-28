@@ -51,7 +51,9 @@ theme = "hugo-theme-shell"
   folderName = "my_junk"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
-    ["Shitposting", "https://twitter.com/broadcaststorm_"],
-    ["Long Form Shitposting", "http://blog.broadcaststorm.io"],
-    ["Bad Chess", "https://lichess.org/@/ChooChooBoom"]
+    ["Beacons", "beacons.ai/loopednetwork"],
+    ["Shitposting", "https://twitter.com/loopednetwork],
+    ["Long Form Shitposting", "http://looped.network"],
+    ["Bad Chess", "https://lichess.org/@/LaifuMoe"],
+    ["Laifu", "https://laifu.moe"]
   ]

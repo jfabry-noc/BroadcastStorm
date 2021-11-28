@@ -52,7 +52,7 @@ theme = "hugo-theme-shell"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["Beacons", "beacons.ai/loopednetwork"],
-    ["Shitposting", "https://twitter.com/loopednetwork],
+    ["Shitposting", "https://twitter.com/loopednetwork"],
     ["Long Form Shitposting", "http://looped.network"],
     ["Bad Chess", "https://lichess.org/@/LaifuMoe"],
     ["Laifu", "https://laifu.moe"]

@@ -48,7 +48,7 @@ theme = "hugo-theme-shell"
 
   [Params.Tree]
   use = true
-  folderName = "my_junk"
+  folderName = "packets"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["Beacons", "beacons.ai/loopednetwork"],

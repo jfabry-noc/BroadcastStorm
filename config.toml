@@ -45,6 +45,5 @@ theme = "hugo-theme-shell"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["Shitposting", "https://twitter.com/loopednetwork"],
-    ["Long Form Shitposting", "http://looped.network"],
-    ["Laifu", "https://laifu.moe"]
+    ["Main Links", "http://looped.network"]
   ]
